@@ -1,0 +1,12 @@
+apiVersion: v1
+entries:
+  notificationchart:
+  - apiVersion: v1
+    created: 2018-02-21T09:50:58.242297057-08:00
+    description: A Helm chart for Kubernetes
+    digest: f7ab1ae9639da33ec7c218a171bffed2b3f48ddae42118378aca213d1e6b963f
+    name: notificationchart
+    urls:
+    - https://kubedemo1.github.io/mycharts/notificationchart-0.1.0.tgz
+    version: 0.1.0
+generated: 2018-02-21T09:50:58.241834061-08:00
